@@ -5,8 +5,11 @@ Below is a general system flow chart
 ![General Flow Chart](../master/general_flow_chart.png)
 
 
+
+
 Below is a flow chart of the detection algorithm 
 ![Detection Flow Chart](../master/detection_flow_chart.png)
+
 
 Application screens
 ![Screens](../master/screens.png)
