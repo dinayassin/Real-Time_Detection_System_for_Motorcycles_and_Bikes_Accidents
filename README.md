@@ -9,4 +9,4 @@ Below is a flow chart of the detection algorithm
 ![Detection Flow Chart](../master/detection_flow_chart.png)
 
 Application screens
-![Screens](../master/Screens.png)
+![Screens](../master/screens.png)
